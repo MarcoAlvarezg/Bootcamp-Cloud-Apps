@@ -16,7 +16,7 @@ Puede tener una aplicacion que esta compuesta por un tiempo de ejecución de **M
 O puede tener una analisis de registros supervisar estados de una aplicación.
 ![](img/im3.png)
 
-Puedes encontrar más información: ![][youtube-url]
+Puedes encontrar más información: ![youtube-url]
 
 ## Conoceras que herramientas como:
 1. ### Functions de IBM Cloud. <br>
@@ -32,7 +32,7 @@ Para mayor informacion: [![Functions][img-cloud-functions]][url-ibmcloud-Functio
 
 
 
-[youtube]
+
 [youtube-url]: https://www.youtube.com/watch?time_continue=14&v=oUpqXxmr6oU&feature=emb_logo
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
