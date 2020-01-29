@@ -23,7 +23,7 @@ Puedes encontrar más información en el siguiente video: [![YouTube][img-youtub
 Plataforma de IBM cloud de programacion poliglota FaaS (Functions-as-a-Service) para desarrollo de codigo ligero que escala dependiendo de la demanda.
 * [![Functions][img-cloud-functions]][url-ibmcloud-Functions] Para obtener mayor información.
 * [![Functions][git-cloud-functions]][git-ibmcloud-Functions] Para crear una aplicación sencilla.
-* [![Appid][appid]][appid-url] Para una aplicación integrada.
+* [![Appid][img-appid]][appid-url] Para una aplicación integrada.
 
 
 
@@ -43,5 +43,5 @@ Plataforma de IBM cloud de programacion poliglota FaaS (Functions-as-a-Service) 
 [url-ibmcloudfoundry]: https://www.ibm.com/cloud/cloud-foundry
 [git-cloud-functions]: https://img.shields.io/badge/GIT-Cloud%20Functions-blueviolet.svg
 [git-ibmcloud-Functions]: /Serverless-Cloudant
-[appid]: https://img.shields.io/bagde/GIT-AppID%20Serverless-green.svg
+[img-appid]: https://img.shields.io/badge/GIT-AppID%20Serverless-brightgreen.svg
 [appid-url]: https://github.com/ibmdevelopermx/Events_And_Users_FollowUp_App
