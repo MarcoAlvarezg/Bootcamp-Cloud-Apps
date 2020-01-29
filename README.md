@@ -32,7 +32,7 @@ Para mayor informacion: [![Functions][img-cloud-functions]][url-ibmcloud-Functio
 
 
 
-[img-youtube]: https://img.shiels.io/badge/IBM%20Cloud-YouTube-red.svg
+[img-youtube]: https://img.shields.io/badge/IBM%20Cloud-YouTube-red.svg
 [youtube-url]: https://www.youtube.com/watch?time_continue=14&v=oUpqXxmr6oU&feature=emb_logo
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
