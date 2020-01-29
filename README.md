@@ -29,6 +29,7 @@ Plataforma de IBM cloud de programacion poliglota FaaS (Functions-as-a-Service) 
 2. ### IBM Cloud Kubernetes Services. <br>
 Obtenga escala y diversidad de cargas de trabajo, seguridad y conformidad de mejor calidad, e integración con servicios como Watson™ e IBM Blockchain.
 * [![Kubernetes][img-cloud-kubernetes]][url-ibmcloud-kubernetes] Para obtener mayor información.
+* [![Kubernetesgit][img-gitcloud-kubernetes]][url-gitibmcloud-kubernetes] 
 
 3. ### IBM Continuous Delivery. <br>
 Adopte DevOps de una manera preparada para la empresa. Cree cadenas de herramientas que den soporte a sus tareas de entrega de aplicaciones. Automatice compilaciones, pruebas, implementaciones y más.
@@ -63,5 +64,7 @@ Puede tener una implementación continua hacia Kubernetes.
 [url-ibmcloud-kubernetes]: https://www.ibm.com/cloud/container-service/
 [img-cloud-CD]: https://img.shields.io/badge/IBM-Continuous%20Dlivery-blue.svg
 [url-ibmcloud-CD]: https://www.ibm.com/cloud/continuous-delivery
-[img-gitcloud-CD]: https://img.shields.io/badge/GIT-Cloud%20Continuous%20Delivery-blueviolet.svg
+[img-gitcloud-CD]: https://img.shields.io/badge/GIT-IBM%20Cloud%20Continuous%20Delivery-blueviolet.svg
 [url-gitibmcloud-CD]: /IBM_Recipe-Continuous_Delivery
+[img-gitcloud-kubernetes]: https://img.shields.io/badge/GIT-IBM%20Cloud%20Kubernetes-blueviolet.svg
+[url-gitibmcloud-kubernetes]: /IBM_Recipe-Kubernetes
