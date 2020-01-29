@@ -21,8 +21,9 @@ Puedes encontrar más información en el siguiente video: [![YouTube][img-youtub
 ## Conoceras que herramientas como:
 1. ### Functions de IBM Cloud. <br>
 Plataforma de IBM cloud de programacion poliglota FaaS (Functions-as-a-Service) para desarrollo de codigo ligero que escala dependiendo de la demanda.
-
-Para mayor informacion: [![Functions][img-cloud-functions]][url-ibmcloud-Functions] 
+* [![Functions][img-cloud-functions]][url-ibmcloud-Functions] Para obtener mayor información.
+* [![Functions][git-cloud-functions]][git-ibmcloud-Functions] Para crear una aplicación sencilla.
+* [![Appid][appid]][appid-url] Para una aplicación integrada.
 
 
 
@@ -36,7 +37,11 @@ Para mayor informacion: [![Functions][img-cloud-functions]][url-ibmcloud-Functio
 [youtube-url]: https://www.youtube.com/watch?time_continue=14&v=oUpqXxmr6oU&feature=emb_logo
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
-[img-cloud-functions]: https://img.shields.io/badge/IBM%20cloud-Functions-blueviolet.svg
+[img-cloud-functions]: https://img.shields.io/badge/IBM%20cloud-Functions-blue.svg
 [url-ibmcloud-Functions]: https://www.ibm.com/cloud/functions
-[img-ibmcloudfoundry]: https://img.shields.io/badge/IBM-Cloud%20Foundry.blue.svg
+[img-ibmcloudfoundry]: https://img.shields.io/badge/IBM-Cloud%20Foundry-blue.svg
 [url-ibmcloudfoundry]: https://www.ibm.com/cloud/cloud-foundry
+[git-cloud-functions]: https://img.shields.io/badge/GIT-Cloud%20Functions-blueviolet.svg
+[git-ibmcloud-Functions]: /Serverless-Cloudant
+[appid]: https://img.shields.io/bagde/GIT-AppID%20Serverless-green.svg
+[appid-url]: https://github.com/ibmdevelopermx/Events_And_Users_FollowUp_App
