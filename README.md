@@ -56,7 +56,7 @@ Puede tener una implementación continua hacia Kubernetes.
 [img-ibmcloudfoundry]: https://img.shields.io/badge/IBM-Cloud%20Foundry-blue.svg
 [url-ibmcloudfoundry]: https://www.ibm.com/cloud/cloud-foundry
 [git-cloud-functions]: https://img.shields.io/badge/GIT-Cloud%20Functions-blueviolet.svg
-[git-ibmcloud-Functions]: /Serverless-Cloudant
+[git-ibmcloud-Functions]: /Serverless_Cloudant
 [img-appid]: https://img.shields.io/badge/GIT-AppID%20Serverless-brightgreen.svg
 [appid-url]: https://github.com/ibmdevelopermx/Events_And_Users_FollowUp_App
 [img-cloud-kubernetes]: https://img.shields.io/badge/IBM%20Cloud-Kubernetes%20Services-blue.svg
