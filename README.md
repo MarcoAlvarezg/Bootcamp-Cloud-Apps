@@ -32,11 +32,11 @@ Para mayor informacion: [![Functions][img-cloud-functions]][url-ibmcloud-Functio
 
 
 
-[img-youtube]: https://img.shields.io/badge/IBM%20Cloud-YouTube-red.svg
+[img-youtube]: https://img.shields.io/badge/IBM%20Cloud-YouTube-critical.svg
 [youtube-url]: https://www.youtube.com/watch?time_continue=14&v=oUpqXxmr6oU&feature=emb_logo
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-Powered-blue.svg
 [url-ibmcloud]: https://www.ibm.com/cloud/
-[img-cloud-functions]: https://img.shields.io/badge/IBM%20cloud-Functions-red.svg
+[img-cloud-functions]: https://img.shields.io/badge/IBM%20cloud-Functions-blueviolet.svg
 [url-ibmcloud-Functions]: https://www.ibm.com/cloud/functions
 [img-ibmcloudfoundry]: https://img.shields.io/badge/IBM-Cloud%20Foundry.blue.svg
 [url-ibmcloudfoundry]: https://www.ibm.com/cloud/cloud-foundry
